@@ -1,0 +1,44 @@
+[
+    {
+      "title": "BEP20 Token Contract",
+      "description": "Create an BEP20 Token with liquidity and tax fee on binance smart chain network in less than a minute with our full audited smart contract solidity code, 100% token ownership.",
+      "image": "img/bep20.png",
+      "downloadLink": "https://0xfactory.com/",
+      "price": "0.5"
+    },
+    {
+      "title": "ERC20 Token Contract",
+      "description": "Create an ERC20 Token with liquidity and tax fee on ethereum mainnet network in less than a minute with our full audited smart contract solidity code, 100% token ownership.",
+      "image": "img/erc20.png",
+      "downloadLink": "https://0xfactory.com/",
+      "price": "5"
+    },
+    {
+      "title": "Polygon Token Contract",
+      "description": "Create an ERC20 Token with liquidity and tax fee on polygon network in less than a minute with our full audited smart contract solidity code, 100% token ownership.",
+      "image": "img/polygon.png",
+      "downloadLink": "https://0xfactory.com/",
+      "price": "5"
+    },
+    {
+      "title": "Base ERC20 Token Contract",
+      "description": "Create an ERC20 Token with liquidity and tax fee on Base Network in less than a minute with our full audited smart contract solidity code, 100% token ownership.",
+      "image": "img/base.jpg",
+      "downloadLink": "https://0xfactory.com/",
+      "price": "5"
+    },
+    {
+      "title": "Buy and Burn Contract",
+      "description": "This smart contract is designed to create a deflationary mechanism for the token, reducing the overall supply over time and potentially increasing its value for investors.",
+      "image": "img/buy-burn.png",
+      "downloadLink": "https://0xfactory.com/",
+      "price": "15"
+    },
+    {
+      "title": "BNB Divider Contract",
+      "description": "The BNB Divider smart contract is a decentralized application (DApp) built on the Binance Smart Chain (BSC) that facilitates the division and distribution of BNB tokens among multiple participants.",
+      "image": "img/divider.png",
+      "downloadLink": "https://0xfactory.com/",
+      "price": "15"
+    }
+  ]

@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "OwnerWallet": "0x5c4bdD51EeC4952eAEAe62A141564067ba7dAE52",
+      "TokenName": "0xFactory Token",
+      "TokenSymbol": "ZXF",
+      "TokenContract": "0x53a3bE470d8B8255c9Ed5015C5b953F574b2Ce86",
+      "TokenPrice": "0.15",
+      "TokenEnabled": "true",
+      "LogoText": "Smart Contracts",
+      "Title": "Download Solidity Smart Contracts",
+      "Telegram": "https://t.me/ZeroxFactory",
+      "Twitter": "https://twitter.com/0xFactoryCom",
+      "Facebook": "https://www.facebook.com/0xFactory",
+      "Instagram": "https://www.instagram.com/mohamedabdelrazik79/"
+    }
+  ]
